@@ -9,7 +9,7 @@ const Main = () => {
     const {onSent, recentPrompt,showResult,loading,resultData,setInput,input} = useContext(Context)
 
 
-  return (
+  return ( 
     <div className='main'>
         <div className='nav'>
             <p>Gemini</p>
